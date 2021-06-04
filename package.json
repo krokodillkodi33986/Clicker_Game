@@ -1,0 +1,16 @@
+{
+  "name": "clicker-play",
+  "version": "1.0.0",
+  "description": "This is a play with click action on javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "play",
+    "js",
+    "click"
+  ],
+  "author": "Vladislav Kulikov",
+  "license": "ISC"
+}
